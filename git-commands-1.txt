@@ -33,6 +33,7 @@ Scenario 3:
 1 Person -> Two different features
 Work on different branches
 
+
 PrivateBranch1---------------------
 |                                  |
 |                                  |
